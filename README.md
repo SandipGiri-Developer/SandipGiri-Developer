@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sandip+Giri!;" />
 </h1>
 
-<h3 align="center">A passionate Machine Learning Engineer & Data Scientist from India .</h3>
+<h3 align="center">A passionate AI Learning Engineer & Data Scientist from India .</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
   I’m currently learning **Machine learning, Custom RAG System, AI**
 
 
- Fun fact **An AI might beat grandmasters at chess and Go—but it still can’t tell if you’re being sarcastic… unless you fine-tune it just right. 😏 !!**
+ Fun fact **An AI might beat grandmasters at chess and Go however it still can’t tell if you’re being sarcastic… unless you fine-tune it just right. 😏 !!**
  
  </div>
  
