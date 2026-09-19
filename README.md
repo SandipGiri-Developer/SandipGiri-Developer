@@ -35,8 +35,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,fastapi,anaconda,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,java,vscode,windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,fastapi,anaconda,github,git" />
+    <img src="https://skillicons.dev/icons?i=c,java,vscode" /><br>
 </div>
 
 <hr/>
